@@ -7,3 +7,10 @@
 Дополнительно измеряйте *AUC-ROC*, сравнивайте её значение с *F1*-мерой.
 
 Источник данных: [https://www.kaggle.com/barelydedicated/bank-customer-churn-modeling](https://www.kaggle.com/barelydedicated/bank-customer-churn-modeling)
+
+## Комит 1 - загрузил данные
+## Комит 2 - не помню, что поменял
+## Комит 3 - закомментировал ячейки подбора параметров для одной модели
+## Комит 4 - добавил readme
+## Комит 5 - поменял текст в readme
+## Комит 6 - добавил описание комитов readme
